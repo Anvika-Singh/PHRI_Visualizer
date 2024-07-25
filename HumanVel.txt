@@ -1,0 +1,1500 @@
+header: 
+  seq: 941
+  stamp: 
+    secs: 1717114244
+    nsecs: 338199853
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.045819733291864395
+    y: 0.013158800080418587
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 942
+  stamp: 
+    secs: 1717114244
+    nsecs: 404969453
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.09510543197393417
+    y: 0.02731153927743435
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 943
+  stamp: 
+    secs: 1717114244
+    nsecs: 473057746
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.14052626490592957
+    y: 0.04035066068172455
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 944
+  stamp: 
+    secs: 1717114244
+    nsecs: 554538726
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.18221230804920197
+    y: 0.05232138931751251
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 945
+  stamp: 
+    secs: 1717114244
+    nsecs: 605957984
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.23097211122512817
+    y: 0.0663219690322876
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 946
+  stamp: 
+    secs: 1717114244
+    nsecs: 664771080
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.2717565894126892
+    y: 0.07803529500961304
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 947
+  stamp: 
+    secs: 1717114244
+    nsecs: 760283946
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.2753565311431885
+    y: 0.07906123250722885
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 948
+  stamp: 
+    secs: 1717114244
+    nsecs: 815971136
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.2706366181373596
+    y: 0.07770540565252304
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 949
+  stamp: 
+    secs: 1717114244
+    nsecs: 877174854
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.2577575743198395
+    y: 0.07401177287101746
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 950
+  stamp: 
+    secs: 1717114244
+    nsecs: 946058034
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.24373972415924072
+    y: 0.06998652219772339
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 951
+  stamp: 
+    secs: 1717114245
+    nsecs:  76027870
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.23985618352890015
+    y: 0.06886601448059082
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 952
+  stamp: 
+    secs: 1717114245
+    nsecs: 153488397
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.23426567018032074
+    y: 0.06726837158203125
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 953
+  stamp: 
+    secs: 1717114245
+    nsecs: 223165512
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.20352664589881897
+    y: 0.05843940004706383
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 954
+  stamp: 
+    secs: 1717114245
+    nsecs: 355219125
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.18059635162353516
+    y: 0.05185558274388313
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 955
+  stamp: 
+    secs: 1717114245
+    nsecs: 420938491
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.15173748135566711
+    y: 0.0435701422393322
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 956
+  stamp: 
+    secs: 1717114245
+    nsecs: 493487119
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.11873944848775864
+    y: 0.03409569710493088
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 957
+  stamp: 
+    secs: 1717114245
+    nsecs: 550264596
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.06804613769054413
+    y: 0.01954002119600773
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 958
+  stamp: 
+    secs: 1717114245
+    nsecs: 701153993
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.01781199313700199
+    y: 0.005115294363349676
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 959
+  stamp: 
+    secs: 1717114245
+    nsecs: 781252861
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.01714182458817959
+    y: 0.004925738088786602
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 960
+  stamp: 
+    secs: 1717114245
+    nsecs: 821432828
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.049807045608758926
+    y: 0.014302774332463741
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 961
+  stamp: 
+    secs: 1717114245
+    nsecs: 914622306
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.0826648473739624
+    y: 0.023735670372843742
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 962
+  stamp: 
+    secs: 1717114246
+    nsecs:  43727874
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.12065718322992325
+    y: 0.0346459224820137
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 963
+  stamp: 
+    secs: 1717114246
+    nsecs: 115491628
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.13448740541934967
+    y: 0.03862214833498001
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 964
+  stamp: 
+    secs: 1717114246
+    nsecs: 216156005
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.14064568281173706
+    y: 0.040387220680713654
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 965
+  stamp: 
+    secs: 1717114246
+    nsecs: 261339187
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.15111051499843597
+    y: 0.043392132967710495
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 966
+  stamp: 
+    secs: 1717114246
+    nsecs: 309784889
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.1553974747657776
+    y: 0.04462217539548874
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 967
+  stamp: 
+    secs: 1717114246
+    nsecs: 378384113
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.17318086326122284
+    y: 0.04972503334283829
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 968
+  stamp: 
+    secs: 1717114246
+    nsecs: 457621335
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.12154972553253174
+    y: 0.03490166738629341
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 969
+  stamp: 
+    secs: 1717114246
+    nsecs: 536003112
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.13828511536121368
+    y: 0.03971007466316223
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 970
+  stamp: 
+    secs: 1717114246
+    nsecs: 577767848
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.14879685640335083
+    y: 0.04272769019007683
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 971
+  stamp: 
+    secs: 1717114246
+    nsecs: 648386478
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.1085481122136116
+    y: 0.031168298795819283
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 972
+  stamp: 
+    secs: 1717114246
+    nsecs: 718945264
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.10419930517673492
+    y: 0.029919367283582687
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 973
+  stamp: 
+    secs: 1717114246
+    nsecs: 782204389
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.10600283741950989
+    y: 0.030434424057602882
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 974
+  stamp: 
+    secs: 1717114246
+    nsecs: 878348827
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.09300743788480759
+    y: 0.026704104617238045
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 975
+  stamp: 
+    secs: 1717114247
+    nsecs:  11928319
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.08489235490560532
+    y: 0.02437392808496952
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 976
+  stamp: 
+    secs: 1717114247
+    nsecs:  77312946
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.09661836922168732
+    y: 0.02773965150117874
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 977
+  stamp: 
+    secs: 1717114247
+    nsecs: 134789466
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.07192602753639221
+    y: 0.06248101964592934
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 978
+  stamp: 
+    secs: 1717114247
+    nsecs: 234929561
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.039329346269369125
+    y: -0.011309312656521797
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 979
+  stamp: 
+    secs: 1717114247
+    nsecs: 310636997
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.035005323588848114
+    y: 0.023005012422800064
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 980
+  stamp: 
+    secs: 1717114247
+    nsecs: 353682994
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.044598303735256195
+    y: -0.007059847936034203
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 981
+  stamp: 
+    secs: 1717114247
+    nsecs: 572386503
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.05271018296480179
+    y: 0.018186960369348526
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 982
+  stamp: 
+    secs: 1717114247
+    nsecs: 640935420
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.05370883271098137
+    y: 0.018392454832792282
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 983
+  stamp: 
+    secs: 1717114247
+    nsecs: 705778121
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.06653400510549545
+    y: 0.02764434739947319
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 984
+  stamp: 
+    secs: 1717114247
+    nsecs: 785508632
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.014205864630639553
+    y: 0.010155094787478447
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 985
+  stamp: 
+    secs: 1717114247
+    nsecs: 857231140
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.051566313952207565
+    y: 0.002700379118323326
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 986
+  stamp: 
+    secs: 1717114247
+    nsecs: 934504985
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.09371216595172882
+    y: 0.021468084305524826
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 987
+  stamp: 
+    secs: 1717114247
+    nsecs: 973454236
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.066199392080307
+    y: 0.027818933129310608
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 988
+  stamp: 
+    secs: 1717114248
+    nsecs:  64436197
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.07471806555986404
+    y: 0.04226222634315491
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 989
+  stamp: 
+    secs: 1717114248
+    nsecs: 147916793
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.07391441613435745
+    y: 0.007414883002638817
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 990
+  stamp: 
+    secs: 1717114248
+    nsecs: 183323383
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.07550498098134995
+    y: 0.007946008816361427
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 991
+  stamp: 
+    secs: 1717114248
+    nsecs: 333399534
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.06898559629917145
+    y: 0.020017195492982864
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 992
+  stamp: 
+    secs: 1717114248
+    nsecs: 418739557
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.0615234449505806
+    y: 0.01853729598224163
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 993
+  stamp: 
+    secs: 1717114248
+    nsecs: 619703292
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.11426904052495956
+    y: 0.03289846330881119
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 994
+  stamp: 
+    secs: 1717114248
+    nsecs: 718968391
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.11275696009397507
+    y: 0.03271399065852165
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 995
+  stamp: 
+    secs: 1717114248
+    nsecs: 755444288
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.0823824480175972
+    y: 0.02396273799240589
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 996
+  stamp: 
+    secs: 1717114248
+    nsecs: 843789100
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.13482072949409485
+    y: 0.03884293511509895
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 997
+  stamp: 
+    secs: 1717114249
+    nsecs:  41109561
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: 0.07336373627185822
+    y: 0.06178855150938034
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 998
+  stamp: 
+    secs: 1717114249
+    nsecs: 120107173
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.29618218541145325
+    y: 0.014407925307750702
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 999
+  stamp: 
+    secs: 1717114249
+    nsecs: 248133420
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.5674947500228882
+    y: -0.4105053246021271
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1000
+  stamp: 
+    secs: 1717114249
+    nsecs: 318863868
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.8906064033508301
+    y: -0.9100348949432373
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1001
+  stamp: 
+    secs: 1717114249
+    nsecs: 372967004
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.0154213905334473
+    y: -2.443903923034668
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1002
+  stamp: 
+    secs: 1717114249
+    nsecs: 637466907
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.2497225999832153
+    y: -2.4474778175354004
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1003
+  stamp: 
+    secs: 1717114249
+    nsecs: 676115989
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.7540390491485596
+    y: -0.10807237774133682
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1004
+  stamp: 
+    secs: 1717114249
+    nsecs: 744739055
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.8017740845680237
+    y: 0.16596370935440063
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1005
+  stamp: 
+    secs: 1717114249
+    nsecs: 816312313
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.6273347735404968
+    y: 0.7217187285423279
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1006
+  stamp: 
+    secs: 1717114249
+    nsecs: 857427358
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.4084712862968445
+    y: 0.6539475917816162
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1007
+  stamp: 
+    secs: 1717114250
+    nsecs:  42886734
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.737909734249115
+    y: 1.8421077728271484
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1008
+  stamp: 
+    secs: 1717114250
+    nsecs: 173126935
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.0095525979995728
+    y: 1.3064613342285156
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1009
+  stamp: 
+    secs: 1717114250
+    nsecs: 260530233
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.3104331493377686
+    y: 1.3824210166931152
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1010
+  stamp: 
+    secs: 1717114250
+    nsecs: 335910797
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.2713534832000732
+    y: 0.656133770942688
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1011
+  stamp: 
+    secs: 1717114250
+    nsecs: 374682188
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.497820496559143
+    y: 0.4921085834503174
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1012
+  stamp: 
+    secs: 1717114250
+    nsecs: 439330577
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5857881307601929
+    y: 0.4427964687347412
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1013
+  stamp: 
+    secs: 1717114250
+    nsecs: 692768096
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.4457491636276245
+    y: 1.3597815036773682
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1014
+  stamp: 
+    secs: 1717114250
+    nsecs: 806002140
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5440431833267212
+    y: 0.13689225912094116
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1015
+  stamp: 
+    secs: 1717114250
+    nsecs: 856048822
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.6694637537002563
+    y: -0.9775214791297913
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1016
+  stamp: 
+    secs: 1717114250
+    nsecs: 921329259
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.7284916639328003
+    y: -1.5099014043807983
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1017
+  stamp: 
+    secs: 1717114250
+    nsecs: 964768171
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.6162443161010742
+    y: -0.8514689803123474
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1018
+  stamp: 
+    secs: 1717114251
+    nsecs:  42466402
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.7019152641296387
+    y: -0.8673424124717712
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1019
+  stamp: 
+    secs: 1717114251
+    nsecs: 127405405
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5674502849578857
+    y: 0.33137279748916626
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1020
+  stamp: 
+    secs: 1717114251
+    nsecs: 210804700
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.4940956830978394
+    y: 0.9086352586746216
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1021
+  stamp: 
+    secs: 1717114251
+    nsecs: 256897687
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.6394243240356445
+    y: 1.3895196914672852
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1022
+  stamp: 
+    secs: 1717114251
+    nsecs: 386060953
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5219202041625977
+    y: 2.0979714393615723
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1023
+  stamp: 
+    secs: 1717114251
+    nsecs: 510473489
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5762619972229004
+    y: 2.345388650894165
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1024
+  stamp: 
+    secs: 1717114251
+    nsecs: 649105548
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.4894071817398071
+    y: 1.647854208946228
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1025
+  stamp: 
+    secs: 1717114251
+    nsecs: 728661060
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.4479339122772217
+    y: -0.0190889835357666
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1026
+  stamp: 
+    secs: 1717114251
+    nsecs: 848761320
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.3935258388519287
+    y: -0.23289141058921814
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1027
+  stamp: 
+    secs: 1717114251
+    nsecs: 916088104
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5329664945602417
+    y: 0.678809404373169
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1028
+  stamp: 
+    secs: 1717114251
+    nsecs: 974393129
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.5727168321609497
+    y: 1.1163804531097412
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1029
+  stamp: 
+    secs: 1717114252
+    nsecs:  39263963
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.6602133512496948
+    y: 1.2583314180374146
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1030
+  stamp: 
+    secs: 1717114252
+    nsecs: 271865606
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.6999205350875854
+    y: 1.1655793190002441
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1031
+  stamp: 
+    secs: 1717114252
+    nsecs: 410787343
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.7977383136749268
+    y: 1.271690845489502
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1032
+  stamp: 
+    secs: 1717114252
+    nsecs: 445672750
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.8134421110153198
+    y: 1.1110000610351562
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1033
+  stamp: 
+    secs: 1717114252
+    nsecs: 533015251
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.773948073387146
+    y: 0.7158079743385315
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1034
+  stamp: 
+    secs: 1717114252
+    nsecs: 755836486
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.6985416412353516
+    y: 0.47238484025001526
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1035
+  stamp: 
+    secs: 1717114252
+    nsecs: 826721429
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.7633951902389526
+    y: 0.38471728563308716
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1036
+  stamp: 
+    secs: 1717114252
+    nsecs: 865915298
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.695610761642456
+    y: 0.37610918283462524
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1037
+  stamp: 
+    secs: 1717114253
+    nsecs:  11173725
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.7382373809814453
+    y: 0.33402198553085327
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1038
+  stamp: 
+    secs: 1717114253
+    nsecs:  74073314
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.7201099395751953
+    y: 0.26837363839149475
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1039
+  stamp: 
+    secs: 1717114253
+    nsecs: 322596073
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -1.3514374494552612
+    y: 0.04780954495072365
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+header: 
+  seq: 1040
+  stamp: 
+    secs: 1717114253
+    nsecs: 400337934
+  frame_id: "zed2i_base_link"
+twist: 
+  linear: 
+    x: -0.9403289556503296
+    y: -0.23523308336734772
+    z: 0.0
+  angular: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
