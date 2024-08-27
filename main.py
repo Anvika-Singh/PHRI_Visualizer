@@ -15,9 +15,9 @@ import transformations
 
 
 
-#bag_name = input("what bag?")
-bag_name = "PHRI_bagfiles_2024-05-30-20-08-28.bag"
-bag = rosbag.Bag("/home/anvikaks/Downloads/" + bag_name)
+bag_path = input("bag path?")
+#bag_name = "PHRI_bagfiles_2024-05-30-20-08-28.bag" "/home/anvikaks/Downloads/"+name
+bag = rosbag.Bag(bag_path)
 topics = bag.get_type_and_topic_info()[1].keys()
 
 """
