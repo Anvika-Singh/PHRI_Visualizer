@@ -8,7 +8,7 @@ import numpy as np
 
 
 ### GRAPHS
-### animated position plot
+### animated position plot **IS NOT CALLED, implemented in main method**
 def animatedPositionPlot(ax, fig, husky_x_pos, husky_y_pos, human_x_pos, human_y_pos, minX, minY, maxX, maxY, times, human_times):
 
     husky_line = ax[0,0].plot(husky_x_pos[0], husky_y_pos[0], label=f"Husky")[0]
@@ -32,7 +32,7 @@ def animatedPositionPlot(ax, fig, husky_x_pos, husky_y_pos, human_x_pos, human_y
 
     ani = animation.FuncAnimation(fig=fig, func=update, frames=len(husky_x_pos), interval=30)
 
-### Slider position plot
+### Slider position plot **IS NOT CALLED, implemented in main method**
 def sliderPositionPlot(ax, fig, husky_x_pos, husky_y_pos, human_x_pos, human_y_pos, minX, minY, maxX, maxY, minT, maxT, times, human_times):
 
     slider_husky_line = ax[0,1].plot(husky_x_pos[0], husky_y_pos[0], label=f"Husky")[0]
