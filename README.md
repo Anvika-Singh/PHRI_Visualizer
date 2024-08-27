@@ -1,2 +1,2 @@
 # PHRI_Visualizer
-create graphs for the husky (unfinished)
+create animated and slider position graphs, linear and angular velocity graphs, and an acceleration graph for the husky and a human. Also calculates metrics.
