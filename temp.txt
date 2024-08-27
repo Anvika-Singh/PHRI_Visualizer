@@ -1,0 +1,18 @@
+Bag: TEMP
+
+SUCCESS METRICS: TO BE WRITTEN 
+Distance to goal, path length, time to reach goal, wall collisions, human collisions, timeouts, stalled time
+
+QUALITY AND SOCIAL METRICS:
+Minimum Distance: 2000000000.0m
+Calculates the smallest distance between the robot and the human to see if it is within the 1 m collision radius
+
+Total Acceleration: 16.0
+Measures how smoothly the robot went. Lower is better.
+
+Avg Movement Jerk: 0.00014229178709591355
+Second order derivative of linear velocity to determine the jerkiness in the change of acceleration.
+
+Path Irregularity Index: nan
+Measures how much the robot deviates from the desired path to indicate how effiecient the path was. Lower the better
+
