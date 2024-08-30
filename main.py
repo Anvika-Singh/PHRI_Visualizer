@@ -15,9 +15,9 @@ import transformations
 
 
 
-bag_path = input("bag path?")
-#bag_name = "PHRI_bagfiles_2024-05-30-20-08-28.bag" "/home/anvikaks/Downloads/"+name
-bag = rosbag.Bag(bag_path)
+#bag_name = input("what bag?")
+bag_name = "PHRI_bagfiles_2024-05-30-20-08-28.bag"
+bag = rosbag.Bag("/home/anvikaks/Downloads/" + bag_name)
 topics = bag.get_type_and_topic_info()[1].keys()
 
 """
@@ -129,7 +129,9 @@ fig, ax = plt.subplots(3,2)
 
 husky_line = ax[0,0].plot(husky_x_pos[0], husky_y_pos[0], label=f"Husky")[0]
 human_line = ax[0,0].plot(human_x_pos[0], human_y_pos[0], label=f"Human")[0]
-ax[0,0].set(xlim=[minX-1, 1.1*maxX], ylim=[minY-1,1.1*maxY], xlabel='x-position', ylabel='y-position', title = 'Animated Position Plot')
+
+ax[0,0].plot(finalPosition[0], finalPosition[1], marker='*')
+ax[0,0].set(xlim=[minX-1, maxX+1], ylim=[minY-1,maxY+1], xlabel='x-position', ylabel='y-position', title = 'Animated Position Plot')
 ax[0,0].legend()
 
 def update(frame):
@@ -151,8 +153,9 @@ ani = animation.FuncAnimation(fig=fig, func=update, frames=len(husky_x_pos), int
 ### Slider position plot
 slider_husky_line = ax[0,1].plot(husky_x_pos[0], husky_y_pos[0], label=f"Husky")[0]
 slider_human_line = ax[0,1].plot(human_x_pos[0], human_y_pos[0], label=f"Human")[0]
-sliderplot = ax[1,1].plot(husky_x_pos, husky_y_pos)
-ax[0,1].set(xlim=[minX-1, 1.1*maxX], ylim=[minY-1,1.1*maxY], xlabel='x-position', ylabel='y-position', title = 'Slider Position Plot')
+#sliderplot = ax[0,1].plot(husky_x_pos, husky_y_pos)
+ax[0,1].plot(finalPosition[0], finalPosition[1], marker='*')
+ax[0,1].set(xlim=[minX-1, 1+maxX], ylim=[minY-1,1+maxY], xlabel='x-position', ylabel='y-position', title = 'Slider Position Plot')
 ax[0,1].legend()
 
 
